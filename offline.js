@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480906329,
+	"version": 1482195714,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,9 @@
 		"images/arrowleft-sheet0.png",
 		"images/arrowright-sheet0.png",
 		"images/playerblock-sheet0.png",
+		"images/slowmopowerup-sheet0.png",
+		"images/extrastonepowerup-sheet0.png",
+		"images/starimgtext-sheet0.png",
 		"media/large_building_explosion.m4a",
 		"media/large_building_explosion.ogg",
 		"media/missle_launch.m4a",
@@ -43,6 +46,11 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"fluox___-webfont.woff",
+		"fluox___-webfont.woff2",
+		"fuckingwenhwyfar-webfont.woff",
+		"fuckingwenhwyfar-webfont.woff2",
+		"stylesheet.css"
 	]
 }
