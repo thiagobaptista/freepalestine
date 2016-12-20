@@ -26135,7 +26135,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Fade.prototype.acts.RestartFade,
 	cr.plugins_.Text.prototype.acts.SetWebFont,
 	cr.plugins_.Browser.prototype.acts.RequestFullScreen,
-	cr.plugins_.Mouse.prototype.cnds.OnAnyClick,
 	cr.behaviors.Fade.prototype.acts.SetFadeInTime,
 	cr.behaviors.Fade.prototype.acts.SetFadeOutTime,
 	cr.plugins_.Browser.prototype.acts.Close
