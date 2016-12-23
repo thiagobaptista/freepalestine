@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1482199750,
+	"version": 1482514276,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,15 @@
 		"images/slowmopowerup-sheet0.png",
 		"images/extrastonepowerup-sheet0.png",
 		"images/starimgtext-sheet0.png",
+		"images/levelbackground2-sheet0.png",
+		"images/redmissle-sheet0.png",
+		"images/athribomb-sheet0.png",
+		"images/athribomb-sheet1.png",
+		"images/lvl1introimage-sheet0.png",
+		"images/lvl2introimage-sheet0.png",
+		"images/bomberleftright-sheet0.png",
+		"images/bomberleftcenter-sheet0.png",
+		"images/facebookbutton-sheet0.png",
 		"media/large_building_explosion.m4a",
 		"media/large_building_explosion.ogg",
 		"media/missle_launch.m4a",
@@ -51,6 +60,7 @@
 		"fluox___-webfont.woff2",
 		"fuckingwenhwyfar-webfont.woff",
 		"fuckingwenhwyfar-webfont.woff2",
-		"stylesheet.css"
+		"stylesheet.css",
+		"channel.html"
 	]
 }
